@@ -4,7 +4,7 @@ How to bypass restrictions with a UNBLOCKED proxy
 Open this link and hit enable site
 <br>
 <br>
-techhelpforanyone.org/prox.html
+https://techhelpforanyone.org/prox.html
 <br>
 <br>
 Open this website and hit the link that reads: "Click here to play games"
